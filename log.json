@@ -1,0 +1,1020 @@
+{
+    "Timestamp": "2022-07-02T19:03:19.6548606-06:00",
+    "Level": "Information",
+    "MessageTemplate": "Application starting up...",
+    "Properties": {
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 1
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.2776145-06:00",
+    "Level": "Information",
+    "MessageTemplate": "You requested the Index page.",
+    "Properties": {
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.2840944-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 0,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.2900000-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 1,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.2911679-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 2,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.2922659-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 3,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.2942437-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 4,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.2959870-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 5,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.2970748-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 6,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.2989778-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 7,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3015726-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 8,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3030771-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 9,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3050649-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 10,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3062517-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 11,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3076266-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 12,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3094953-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 13,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3113659-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 14,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3135065-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 15,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3151141-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 16,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3171988-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 17,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3198235-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 18,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3209335-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 19,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3220205-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 20,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3234986-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 21,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3252798-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 22,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3263378-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 23,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3273410-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 24,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3283256-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 25,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3292927-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 26,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3302560-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 27,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3314224-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 28,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3355019-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 29,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3380255-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 30,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3411365-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 31,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3423860-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 32,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3435442-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 33,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3447422-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 34,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3461841-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 35,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3473455-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 36,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3495254-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 37,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3533451-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 38,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3559115-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 39,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3577741-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 40,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3588935-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 41,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3600605-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 42,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3612834-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 43,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3624411-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 44,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3636064-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 45,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3668209-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 46,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3685024-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 47,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3697421-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 48,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3735567-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 49,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3746742-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 50,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3762421-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 51,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3774154-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 52,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3785731-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 53,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3797244-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 54,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.3808895-06:00",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is {LoopCountValue}",
+    "Properties": {
+        "LoopCountValue": 55,
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.4815552-06:00",
+    "Level": "Error",
+    "MessageTemplate": "We caught this exception in the Index Get call.",
+    "Exception": "System.Exception: This is our demo exception\r\n   at SerilogDemo.Pages.IndexModel.OnGet() in C:\\Users\\Kyle\\Code\\Tutorials\\Serilog\\SerilogDemo\\SerilogDemo\\Pages\\Index.cshtml.cs:line 24",
+    "Properties": {
+        "SourceContext": "SerilogDemo.Pages.IndexModel",
+        "ActionId": "5e23a8ae-77fc-4eb6-abf8-42e1917919cb",
+        "ActionName": "/Index",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "RequestPath": "/",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 6
+    }
+}
+{
+    "Timestamp": "2022-07-02T19:03:21.7452987-06:00",
+    "Level": "Information",
+    "MessageTemplate": "HTTP {RequestMethod} {RequestPath} responded {StatusCode} in {Elapsed:0.0000} ms",
+    "Properties": {
+        "RequestMethod": "GET",
+        "RequestPath": "/",
+        "StatusCode": 200,
+        "Elapsed": 555.0948,
+        "SourceContext": "Serilog.AspNetCore.RequestLoggingMiddleware",
+        "RequestId": "0HMISHV96NLFC:00000001",
+        "ConnectionId": "0HMISHV96NLFC",
+        "MachineName": "DESKTOP-852I9EH",
+        "ProcessId": 8,
+        "ThreadId": 13
+    },
+    "Renderings": {
+        "Elapsed": [
+            {
+                "Format": "0.0000",
+                "Rendering": "555.0948"
+            }
+        ]
+    }
+}
